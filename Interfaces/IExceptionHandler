@@ -1,0 +1,5 @@
+package GoExceptionHandler
+
+type error interface {
+	Error() string
+}
