@@ -1,3 +1,4 @@
-module github.com/alkinguler/GoExceptionHandler
+module github.com/alkinguler/GoExceptionHandler/Implementations
+
 
 go 1.19
